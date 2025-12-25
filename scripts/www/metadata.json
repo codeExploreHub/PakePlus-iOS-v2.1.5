@@ -1,0 +1,7 @@
+{
+  "name": "Ultimate Merry Christmas Tree 3D",
+  "description": "A high-performance 3D interactive Christmas tree with particle systems, photo wall, gesture control, and cinematic post-processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
